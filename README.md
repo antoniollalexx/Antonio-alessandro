@@ -1,0 +1,5 @@
+- 👋 Hi, I’m  Antonio Alessadro Gomes da Silva.
+- 👀 I’m interested in desenvolvimento de sistemas.
+- 🌱 I’m currently learning javaScrip, React, SQL Server.
+- 💞️ I’m looking to collaborate on projetos de desenvolvimentos  de soft e aplicações.
+- 📫 How to reach me por email: antoniollalexx@gmail.com, telefone:+55(63)99224-1896.
